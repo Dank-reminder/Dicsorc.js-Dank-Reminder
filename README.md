@@ -1,2 +1,2 @@
-# Dicsorc.js-Dank-Reminder
+# Discord.js-Dank-Reminder
 Open source for my Discord bot
